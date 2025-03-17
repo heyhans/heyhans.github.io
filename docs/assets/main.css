@@ -1,0 +1,15 @@
+.site-footer {
+    background: #222;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer-column {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+}
+.footer-column h3 {
+    font-size: 16px;
+    color: #fff;
+}
