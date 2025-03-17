@@ -13,4 +13,8 @@
     font-size: 16px;
     color: #fff;
 }
+a {
+    color: black;
+    text-decoration: none;
+}
 
