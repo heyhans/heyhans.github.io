@@ -4,3 +4,17 @@ sass:
   style: compressed
   load_paths:
     - _sass
+
+title: "Hans' Blog"
+author: "Hans"
+email: "hans.shon@gmail.com"
+description: "This is my personal blog using Jekyll and Minima."
+
+baseurl: ""  # Keep this empty for GitHub Pages
+url: "https://blog.hanspm.com"  # Change this to your custom domain
+
+#theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
